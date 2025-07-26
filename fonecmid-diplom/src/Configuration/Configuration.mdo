@@ -1175,6 +1175,7 @@
   <catalogs>Catalog.ВерсииРасширений</catalogs>
   <catalogs>Catalog.ВерсииФайлов</catalogs>
   <catalogs>Catalog.ВидыКонтактнойИнформации</catalogs>
+  <catalogs>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ВнешниеПользователи</catalogs>
   <catalogs>Catalog.ГруппыВнешнихПользователей</catalogs>
   <catalogs>Catalog.ГруппыДоступа</catalogs>
