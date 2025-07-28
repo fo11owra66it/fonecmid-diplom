@@ -12,4 +12,5 @@
   </picture>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <subsystems>ОбслуживаниеКлиентов</subsystems>
 </mdclass:Subsystem>
