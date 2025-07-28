@@ -1051,9 +1051,11 @@
   <commandGroups>CommandGroup.Печать</commandGroups>
   <constants>Constant.АвтоматическиНастраиватьРазрешенияВПрофиляхБезопасности</constants>
   <constants>Constant.АдресПубликацииИнформационнойБазыВИнтернете</constants>
-  <constants>Constant.ГлавныйУзел</constants>
   <constants>Constant.АдресПубликацииИнформационнойБазыВЛокальнойСети</constants>
+  <constants>Constant.ВКМ_ИдентификаторГруппыТелеграм</constants>
+  <constants>Constant.ВКМ_ТокенТелеграм</constants>
   <constants>Constant.ВыполнятьЗамерыПроизводительности</constants>
+  <constants>Constant.ГлавныйУзел</constants>
   <constants>Constant.ДатаПоследнейВыгрузкиЗамеровПроизводительностиUTC</constants>
   <constants>Constant.ДетализироватьОбновлениеИБВЖурналеРегистрации</constants>
   <constants>Constant.ДоставлятьСерверныеОповещенияБезСистемыВзаимодействия</constants>
