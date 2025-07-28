@@ -9,7 +9,6 @@
     <value>Присоединенный файл</value>
   </synonym>
   <type>
-    <types>DocumentRef.ВКМ_ОбслуживаниеКлиента</types>
     <types>CatalogRef.ДоговорыКонтрагентовПрисоединенныеФайлы</types>
     <types>CatalogRef.РеализацияТоваровУслугПрисоединенныеФайлы</types>
     <types>CatalogRef.ПоступлениеТоваровУслугПрисоединенныеФайлы</types>
