@@ -197,7 +197,7 @@
           <typeDomainEnabled>true</typeDomainEnabled>
           <textEdit>true</textEdit>
           <choiceParameterLinks>
-            <name>Отбор.ВКМ_ДатаНачала</name>
+            <name>Отбор.Владелец</name>
             <datapath xsi:type="form:DataPath">
               <segments>Объект.Клиент</segments>
             </datapath>
