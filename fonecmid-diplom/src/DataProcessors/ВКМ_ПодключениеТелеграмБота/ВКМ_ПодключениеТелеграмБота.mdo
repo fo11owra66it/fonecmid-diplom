@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bdcee1c9-50f1-43bb-8504-f68474a7b8f9">
+  <producedTypes>
+    <objectType typeId="e8021f28-58f2-45f2-8c71-7d94a3ea3d8e" valueTypeId="c6c79716-4af0-46a2-8bc7-8ae9089514bf"/>
+    <managerType typeId="e06f889f-3ef3-4da1-ac53-a01022a9af56" valueTypeId="78785231-bca3-4c00-ad05-f750e8286388"/>
+  </producedTypes>
+  <name>ВКМ_ПодключениеТелеграмБота</name>
+  <synonym>
+    <key>ru</key>
+    <value>Подключение телеграм бота</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ВКМ_ПодключениеТелеграмБота.Form.Форма</defaultForm>
+  <attributes uuid="27fe44e1-2a5c-4434-b9e2-773b928547fe">
+    <name>ТокенТелеграм</name>
+    <synonym>
+      <key>ru</key>
+      <value>Токен (Телеграм)</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>46</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="11881ff8-7504-4fa6-a976-133fb284892f">
+    <name>ИдентификаторГруппы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Идентификатор группы</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>20</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="d3334c7a-00e8-4dad-83a6-fb7fef4f898f">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

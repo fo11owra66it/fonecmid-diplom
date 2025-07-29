@@ -658,6 +658,7 @@
   <commonModules>CommonModule.ВариантыОтчетовСлужебный</commonModules>
   <commonModules>CommonModule.ВариантыОтчетовСлужебныйКлиент</commonModules>
   <commonModules>CommonModule.ВариантыОтчетовСлужебныйКлиентСервер</commonModules>
+  <commonModules>CommonModule.ВКМ_Телеграм</commonModules>
   <commonModules>CommonModule.ВнешниеПользователи</commonModules>
   <commonModules>CommonModule.ВнешниеПользователиКлиент</commonModules>
   <commonModules>CommonModule.ГенерацияШтрихкода</commonModules>
@@ -713,13 +714,13 @@
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыБСП</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыВызовСервера</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыГлобальный</commonModules>
+  <commonModules>CommonModule.ОбновлениеИнформационнойБазыИТ</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыКлиент</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыКлиентПереопределяемый</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыПереопределяемый</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыСлужебный</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыСлужебныйВызовСервера</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыСлужебныйПовтИсп</commonModules>
-  <commonModules>CommonModule.ОбновлениеИнформационнойБазыИТ</commonModules>
   <commonModules>CommonModule.Обсуждения</commonModules>
   <commonModules>CommonModule.ОбсужденияКлиент</commonModules>
   <commonModules>CommonModule.ОбсужденияСлужебный</commonModules>
@@ -843,13 +844,13 @@
   <commonModules>CommonModule.УдалениеПомеченныхОбъектовСлужебныйВызовСервера</commonModules>
   <commonModules>CommonModule.УдалениеПомеченныхОбъектовСлужебныйКлиентСервер</commonModules>
   <commonModules>CommonModule.УправлениеДоступом</commonModules>
+  <commonModules>CommonModule.УправлениеДоступомИТ</commonModules>
   <commonModules>CommonModule.УправлениеДоступомПереопределяемый</commonModules>
   <commonModules>CommonModule.УправлениеДоступомСлужебный</commonModules>
   <commonModules>CommonModule.УправлениеДоступомСлужебныйВызовСервера</commonModules>
   <commonModules>CommonModule.УправлениеДоступомСлужебныйКлиент</commonModules>
   <commonModules>CommonModule.УправлениеДоступомСлужебныйКлиентСервер</commonModules>
   <commonModules>CommonModule.УправлениеДоступомСлужебныйПовтИсп</commonModules>
-  <commonModules>CommonModule.УправлениеДоступомИТ</commonModules>
   <commonModules>CommonModule.УправлениеИтогамиИАгрегатамиСлужебный</commonModules>
   <commonModules>CommonModule.УправлениеКолонтитулами</commonModules>
   <commonModules>CommonModule.УправлениеКонтактнойИнформацией</commonModules>
@@ -1289,6 +1290,7 @@
   <reports>Report.УниверсальныйОтчет</reports>
   <dataProcessors>DataProcessor.АвтоматическоеИзвлечениеТекстов</dataProcessors>
   <dataProcessors>DataProcessor.ВводКонтактнойИнформации</dataProcessors>
+  <dataProcessors>DataProcessor.ВКМ_ПодключениеТелеграмБота</dataProcessors>
   <dataProcessors>DataProcessor.ГрупповоеИзменениеРеквизитов</dataProcessors>
   <dataProcessors>DataProcessor.ЖурналРегистрации</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаДанныхИзФайла</dataProcessors>
