@@ -13,5 +13,6 @@
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>DataProcessor.ВКМ_ПодключениеТелеграмБота</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <subsystems>ОбслуживаниеКлиентов</subsystems>
 </mdclass:Subsystem>
