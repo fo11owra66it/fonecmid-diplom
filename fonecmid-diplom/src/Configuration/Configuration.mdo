@@ -943,6 +943,7 @@
   <eventSubscriptions>EventSubscription.СкопироватьРеквизитыВерсииФайловВФайл</eventSubscriptions>
   <eventSubscriptions>EventSubscription.УстановитьПометкуУдаленияПрисоединенныхФайлов</eventSubscriptions>
   <eventSubscriptions>EventSubscription.УстановитьПометкуУдаленияПрисоединенныхФайловДокументов</eventSubscriptions>
+  <scheduledJobs>ScheduledJob.ВКМ_ОтправкаУведомленийТелеграмБоту</scheduledJobs>
   <scheduledJobs>ScheduledJob.ЗаполнениеДанныхДляОграниченияДоступа</scheduledJobs>
   <scheduledJobs>ScheduledJob.ЗаполнениеПараметровРаботыРасширений</scheduledJobs>
   <scheduledJobs>ScheduledJob.ЗапускДополнительныхОбработок</scheduledJobs>
