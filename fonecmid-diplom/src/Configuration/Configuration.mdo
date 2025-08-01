@@ -1055,6 +1055,8 @@
   <constants>Constant.АдресПубликацииИнформационнойБазыВИнтернете</constants>
   <constants>Constant.АдресПубликацииИнформационнойБазыВЛокальнойСети</constants>
   <constants>Constant.ВКМ_ИдентификаторГруппыТелеграм</constants>
+  <constants>Constant.ВКМ_НоменклатураАбонентскаяПлата</constants>
+  <constants>Constant.ВКМ_НоменклатураРаботыСпециалиста</constants>
   <constants>Constant.ВКМ_ТокенТелеграм</constants>
   <constants>Constant.ВыполнятьЗамерыПроизводительности</constants>
   <constants>Constant.ГлавныйУзел</constants>
