@@ -14,5 +14,7 @@
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>DataProcessor.ВКМ_ПодключениеТелеграмБота</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеКонстантНоменклатуры</content>
   <subsystems>ОбслуживаниеКлиентов</subsystems>
 </mdclass:Subsystem>

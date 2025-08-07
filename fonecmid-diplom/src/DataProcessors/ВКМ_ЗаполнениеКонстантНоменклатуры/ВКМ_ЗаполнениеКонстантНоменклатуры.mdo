@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="376fbf4c-e9be-4eea-a733-35c0bbf7b37e">
+  <producedTypes>
+    <objectType typeId="f44b866b-c5d7-4e17-94f4-791812eb3b53" valueTypeId="4beb6644-44a9-44bd-8796-6cc5afcd6c75"/>
+    <managerType typeId="03c77c94-dbff-4800-ae74-55fbb50aef73" valueTypeId="3617ba73-4b37-4f31-8330-7953ffa3a789"/>
+  </producedTypes>
+  <name>ВКМ_ЗаполнениеКонстантНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заполнение констант номенклатуры</value>
+  </synonym>
+  <comment>Заполненеие констант &quot;Номенклатура абонентская плата&quot; и &quot;НоменклатураРаботаСпециалиста&quot;</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ВКМ_ЗаполнениеКонстантНоменклатуры.Form.Форма</defaultForm>
+  <attributes uuid="826a420a-f27e-4f47-8ce9-778acdcccff9">
+    <name>НоменклатураАбонентскаяПлата</name>
+    <synonym>
+      <key>ru</key>
+      <value>Номенклатура абонентская плата</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Номенклатура</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="f6ec5312-4cc9-4961-8b93-ddba2ea6f487">
+    <name>НоменклатураРаботыСпециалиста</name>
+    <synonym>
+      <key>ru</key>
+      <value>Номенклатура работы специалиста</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Номенклатура</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="08725968-15d3-4f86-9a68-e5fcd1ebf720">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
