@@ -41,4 +41,8 @@
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>InformationRegister.ВКМ_ОтпускаСотрудников</content>
   <content>Constant.ВКМ_ПроцентНДФЛ</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
 </mdclass:Subsystem>
