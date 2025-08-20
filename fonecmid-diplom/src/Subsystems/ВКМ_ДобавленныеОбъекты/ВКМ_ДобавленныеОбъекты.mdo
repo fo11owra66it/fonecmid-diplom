@@ -16,5 +16,29 @@
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>DataProcessor.ВКМ_ЗаполнениеКонстантНоменклатуры</content>
-  <subsystems>ОбслуживаниеКлиентов</subsystems>
+  <content>Constant.ВКМ_ИдентификаторГруппыТелеграм</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>Constant.ВКМ_ТокенТелеграм</content>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>Document.ВКМ_НачисленияЗарплаты</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>Enum.ВКМ_КатегорииСотрудников</content>
+  <content>InformationRegister.ВКМ_КатегорииСотрудников</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>InformationRegister.ВКМ_ОтпускаСотрудников</content>
+  <content>Constant.ВКМ_ПроцентНДФЛ</content>
 </mdclass:Subsystem>

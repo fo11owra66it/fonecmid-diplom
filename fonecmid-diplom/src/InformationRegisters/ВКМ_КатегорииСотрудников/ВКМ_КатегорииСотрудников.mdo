@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="796b78b8-7a21-479b-9c4a-5e7065e0cccb">
+  <producedTypes>
+    <selectionType typeId="0b3c8294-82b2-4f24-a918-e44d6570643c" valueTypeId="f97ecfe4-dcfe-4631-a1aa-f25b60465c4f"/>
+    <listType typeId="5c3e5d3d-cc82-4b48-9571-cf5f65a5cf73" valueTypeId="5011454d-d8c1-4fbf-89e3-9bd0fb5a1951"/>
+    <managerType typeId="eb3f21e7-57a4-460a-a309-ab9af988df99" valueTypeId="448f4825-2a5a-4707-ae48-a59c872070ed"/>
+    <recordSetType typeId="92ca9a51-3651-47a3-80b3-4ba38c8f7ccc" valueTypeId="1c723f41-4e8c-47c2-9817-9b43003a4523"/>
+    <recordKeyType typeId="25980e4a-0e87-4247-a2bb-943c786ac14f" valueTypeId="142acdfa-3d38-4cd3-8683-a4ff95926862"/>
+    <recordType typeId="b476d26c-2520-47d6-8b52-96449310ec61" valueTypeId="5184180e-d936-43af-8708-b1dd11ec6668"/>
+    <recordManagerType typeId="9965ecd7-104e-483b-944b-859f3fc202c7" valueTypeId="84fa8f65-44a8-4809-baed-2c4d5a653aa8"/>
+  </producedTypes>
+  <name>ВКМ_КатегорииСотрудников</name>
+  <synonym>
+    <key>ru</key>
+    <value>Категории сотрудников</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <recordPresentation>
+    <key>ru</key>
+    <value>Категория сотрудника</value>
+  </recordPresentation>
+  <dimensions uuid="904defc9-909e-4b95-821e-b63e9a464d9b">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Пользователи</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="6f05d7ec-7461-41d9-9491-ca4cfaad69a3">
+    <name>Категория</name>
+    <synonym>
+      <key>ru</key>
+      <value>Категория</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ВКМ_КатегорииСотрудников</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>
