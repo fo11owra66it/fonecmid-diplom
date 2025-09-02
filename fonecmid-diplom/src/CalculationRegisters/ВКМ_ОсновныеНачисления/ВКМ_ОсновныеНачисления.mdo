@@ -68,6 +68,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
+    <scheduleLink>InformationRegister.ВКМ_ГрафикиРаботы.Dimension.ГрафикРаботы</scheduleLink>
   </attributes>
   <attributes uuid="2b4163a3-d007-46c1-9b8a-994b488e20cf">
     <name>Показатель</name>

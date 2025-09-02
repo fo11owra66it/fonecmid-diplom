@@ -217,15 +217,6 @@
 					<dcsset:field>СуммаВыполненныхРабот</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
-			<dcsset:dataParameters>
-				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
-					<dcscor:parameter>[ПериодОтчета	]</dcscor:parameter>
-					<dcscor:value xsi:type="v8:StandardPeriod">
-						<v8:variant xsi:type="v8:StandardPeriodVariant">LastMonth</v8:variant>
-					</dcscor:value>
-					<dcsset:userSettingID>bcda9411-482a-4083-8e2f-537e4a4ec376</dcsset:userSettingID>
-				</dcscor:item>
-			</dcsset:dataParameters>
 			<dcsset:order>
 				<dcsset:item xsi:type="dcsset:OrderItemField">
 					<dcsset:field>Договор</dcsset:field>
