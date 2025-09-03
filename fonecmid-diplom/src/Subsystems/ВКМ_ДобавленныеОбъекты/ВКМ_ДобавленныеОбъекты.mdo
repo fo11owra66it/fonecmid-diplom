@@ -42,7 +42,15 @@
   <content>InformationRegister.ВКМ_ОтпускаСотрудников</content>
   <content>Constant.ВКМ_ПроцентНДФЛ</content>
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
-  <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Report.ВКМ_РасчетыССотрудниками</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Role.ВКМ_ДобавлениеИзменение_ДокументовПоРасчетуЗарплаты</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеДокументовОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ИспользованиеТелеграмБота</content>
+  <content>Role.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_ЧтениеИзменениеДокументовПоОбслуживаниюКлиентов</content>
+  <content>Role.ВКМ_ЧтениеОтчетаВыработкаСпециалистов</content>
+  <content>Role.ВКМ_ЧтениеОтчетовИТБухгалтера</content>
+  <content>Role.ВКМ_ЧтениеОтчетовСпециалистаПоКадрам</content>
 </mdclass:Subsystem>
